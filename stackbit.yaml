@@ -8,6 +8,10 @@ uploadDir: images
 dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
+backend:
+  name: git-gateway
+  repo: username/repository
+  branch: master
 models:
   config:
     type: config
