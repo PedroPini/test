@@ -10,7 +10,7 @@ pagesDir: src/pages
 pageLayoutKey: template
 backend:
   name: git-gateway
-  repo: username/repository
+  repo: PedroPini/test
   branch: master
 models:
   config:
