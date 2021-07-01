@@ -10,7 +10,7 @@ pagesDir: src/pages
 pageLayoutKey: template
 backend:
   name: git-gateway
-  repo:  Raptor-Tech/test
+  repo:  Raptor-Tech/raptoros
   branch: master
 models:
   config:
